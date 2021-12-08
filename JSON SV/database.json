@@ -1,0 +1,179 @@
+{
+    "user-info": [
+        {
+            "id": 1,
+            "ID":"admin",
+            "password":"1"
+        }
+    ],
+    "songs": [
+        {
+            "name": "Em dạo này",
+            "singer": "Ngọt",
+            "path": "./music/Em Dao Nay - Ngot.mp3 ",
+            "image": "./img/emDaoNay.png"
+        },
+        {
+            "name": "Sài Gòn đau lòng quá",
+            "singer": "Ngô Lan Hương (Cover)",
+            "path": "./music/SaiGonDauLongQua-HuaKimTuyenHoangDuyen-6992977.mp3",
+            "image": "./img/SaiGonDauLongQua.png"
+        },
+        {
+            "name": "At my worst",
+            "singer": "Pink Sweat",
+            "path": "./music/At My Worst - Pink Sweat_.mp3",
+            "image": "./img/At_my_worst.png"
+        },
+        {
+            "name":"Lemon tree",
+            "singer": "DJ DESA",
+            "path": "./music/Lemon_tree_DJ_DESA.mp3",
+            "image":"./img/Lemon_tree_DJ_DESA.png"
+        },
+        {
+            "name":"Legendary (Nightcore)",
+            "singer":"Syrex",
+            "path": "./music/Nightcore - Legendary.mp3",
+            "image": "./img/legendary_nightcore.png"
+        },
+        {
+            "name":"We don't sleep at night (Nightcore)",
+            "singer":"Syrex",
+            "path": "./music/Nightcore - We Don't Sleep At Night - (Lyrics).mp3",
+            "image": "./img/we_dont_sleep_at_night.png"
+        },
+        {
+            "name":"Rise",
+            "singer":"The Glitch Mob, Mako, and The Word Alive",
+            "path": "./music/RISE - LOL.mp3",
+            "image": "./img/RISE_LOL.png"
+        },
+        {
+            "name":"Nothing stopping me",
+            "singer": "Vicetone",
+            "path": "./music/Notthing stopping me - NightCore.mp3",
+            "image":"./img/Notthing_stopping_me_NightCore.png"
+        },
+        {
+            "name": "Save me",
+            "singer": "DEAMN",
+            "path": "./music/Save Me - Nightcore.mp3",
+            "image": "./img/Save_Me_Nightcore.png"
+        },
+        {
+            "name":"Legend never die",
+            "singer":"Alan Walker",
+            "path": "./music/Legend_never_die_LOL.mp3",
+            "image": "./img/Legend_never_die_LOL.png"
+        },
+        {
+            "name":"Ignite",
+            "singer":"Zedd",
+            "path": "./music/Ignite (ft. Zedd)LOL.mp3",
+            "image": "./img/ignite-LOL.png"
+        },
+        {
+            "name": "Còn lại gì sau cơn mưa",
+            "singer": "Hồ Quang Hiếu",
+            "path": "./music/[MV] Còn Lại Gì Sau Cơn Mưa - Hồ Quang Hiếu (Lyrics).mp3",
+            "image": "./img/clgscm.png"
+        },
+        {
+            "name": "Haru Haru",
+            "singer": "Big Bang",
+            "path": "./music/BIGBANG - HARU HARU.mp3",
+            "image": "./img/haru_haru.png"
+        },
+        {
+            "name": "Con bướm xuân (Remix)",
+            "singer": "Hồ Quang Hiếu",
+            "path": "./music/Con Bướm Xuân - Hồ Quang Hiếu [Remix].mp3",
+            "image": "./img/Con_buom_xuan.png"
+        },
+        {
+            "name": "Con Đường Mưa",
+            "singer": "Cao Thái Sơn",
+            "path": "./music/Con Đường Mưa - Cao Thái Sơn [Lyric].mp3",
+            "image": "./img/Con_duong_mua.png"
+        },
+        {
+            "name": "Dấu mưa",
+            "singer": "Trung Quân idol",
+            "path": "./music/Dấu mưa _ Trung Quân Idol.mp3",
+            "image": "./img/Dau_mua.png"
+        },
+        {
+            "name": "Day by day",
+            "singer": "T-Ara",
+            "path": "./music/day_by_day.mp3",
+            "image": "./img/day_by_day.png"
+        },
+        {
+            "name": "Đôi mắt",
+            "singer": "Wanbi Tuấn Anh",
+            "path": "./music/Đôi Mắt _ Wanbi Tuấn Anh .mp3",
+            "image": "./img/doi_mat.png"
+        },
+        {
+            "name": "Khi người lớn cô đơn",
+            "singer": "Phạm Hồng Phước",
+            "path": "./music/Khi Người Lớn Cô Đơn _ Phạm Hồng Phước _ Official MV.mp3",
+            "image": "./img/Khi_nguoi_lon_co_don.png"
+        },
+        {
+            "name": "Ngã tư đường",
+            "singer": "Hồ Quang Hiếu",
+            "path": "./music/NGÃ TƯ ĐƯỜNG _ Hồ Quang Hiếu.mp3",
+            "image": "./img/Nga_tu_duong.png"
+        },
+        {
+            "name": "Nụ hồng mong manh",
+            "singer": "Hi anh trai",
+            "path": "./music/Nu_hong_mong_manh.mp3",
+            "image": "./img/Nu_hong_mong_manh.png"
+        },
+        {
+            "name": "Phai dấu cuộc tình",
+            "singer": "Quang Vinh cover",
+            "path": "./music/Quang Vinh - Phai Dấu Cuộc Tình (黄昏 Cover).mp3",
+            "image": "./img/phai_dau_cuoc_tinh.png"
+        },
+        {
+            "name": "Roly poly",
+            "singer": "T-Ara",
+            "path": "./music/T-ara-Roly Poly (Dance Ver.).mp3",
+            "image": "./img/roly_poly.png"
+        },
+        {
+            "name": "Teen vọng cổ",
+            "singer": "Vĩnh Thuyên Kim",
+            "path": "./music/Teen Vọng Cổ   Vĩnh Thuyên Kim - 2010.mp3",
+            "image": "./img/vong_co_teen.png"
+        },
+        {
+            "name": "Thất tình",
+            "singer": "Trịnh Đình Quang",
+            "path": "./music/Thất Tình   Trịnh Đình Quang.mp3",
+            "image": "./img/that_tinh.png"
+        },
+        {
+            "name": "Tình đơn phương",
+            "singer": "Dương Edward Nguyễn",
+            "path": "./music/TÌNH ĐƠN PHƯƠNG ACOUSTIC COVER - Edward Duong Nguyen Ft Tùng Acoustic.mp3",
+            "image": "./img/Tinh_don_phuong.png"
+        },
+        {
+            "name": "Chocolate",
+            "singer": "Trang Pháp",
+            "path": "./music/Trang Pháp - Chocolate.mp3",
+            "image": "./img/Chocolate.png"
+        },
+        {
+            "name": "Vết mưa",
+            "singer": "Vũ Cát Tường",
+            "path": "./music/Vết mưa - Vũ Cát Tường.mp3",
+            "image": "./img/Vet_mua.png"
+        }
+    ]
+}
